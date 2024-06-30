@@ -1,5 +1,4 @@
 <p align="center">
-  <img height="350" height="350" src="https://github.com/catsmile100/Validator-Testnet/assets/85368621/d7cb2811-aea3-459a-9a04-c45b4f85bfc4">
 </p>
 <h1>
 <p align="center"> Analog </p>
