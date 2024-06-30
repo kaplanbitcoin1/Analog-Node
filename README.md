@@ -81,7 +81,7 @@ websocat --version
 
 * |websocat version 1.7.0 olmalı|
 
-# Author_rotateKeys method ile "SESSION KEY'imizi" alalım. (Bunu saklayalım mı hocam dediğinizi duyar gibiyim 😁 ✅)
+* Author_rotateKeys method ile "SESSION KEY'imizi" alalım. (Bunu saklayalım mı hocam dediğinizi duyar gibiyim 😁 ✅)
 
 
 ```console
