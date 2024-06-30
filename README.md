@@ -4,18 +4,17 @@
 <p align="center"> Analog </p>
 </h1>
 
-# EN DÜŞÜK SİSTEM GEREKSİNİMLERİ 
 > Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
 > Network: Port 9944. 
 > Network speed: 500 MBps.
 > Ubuntu version 20.04 ya da 22.04. Sorunsuz olsun diyorsan 22.04
 > (Benim Contabo Vps3'te çalışıyor. Yanında 5 tane daha node kurulu. Sync olduktan sonra sıkıntısız ilerliyor Analog.)
 
-Minimum Sistem Gereksinimleri :
-✅ 4 GB RAM
-✅ 2 CPU cores
-✅ 20 GB free disk space
-✅ 64-bit operating system
+Minimum Sistem Gereksinimleri
+✅ 8 vCPUs, 16 GB Ram, 300 GB Disk.
+✅ Network speed: 500 MBps.
+✅ Ubuntu version 20.04 ya da 22.04. Sorunsuz olsun diyorsan 22.04
+✅ 
 
 ### Güncellemeleri yapalım
 ```console
