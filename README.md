@@ -81,12 +81,18 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 ```
 
 
-### Check Telemetry
-<a href="https://telemetry.analog.one/#/0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943">Telemetry</a>
-***make sure your moniker***
+* Genellikle Node Sync olduktan sonra Moniker'iniz Telemetry üzerinde görünmeli. (4 gün bekledim ama olmadı zannettim fakat arama ile değil sıralama yapıp isminizin baş harfinin olduğu bölgeye gelip kontrol edin, Moniker'iniz ile bakışın 😁) 🐅
 
-### Provide link to Polkadot.js apps for further actions
-<a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts">Dashboard</a>
+<a href="https://telemetry.analog.one/#/0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943">Telemetry</a>
+
+
+* Son işlemler için Polkadot.js'ye bağlanmamız gerekiyor
+* Öncelikle Subwallet ile bir cüzdan açalım
+* Daha sonra link üzerinden siteye cüzdanımızı bağlayalım
+* <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts">Dashboard</a>
+* <a href="https://discord.com/invite/analog">Discord</a> adreslerine gidip Analog adresimize Faucet'ten token alalım
+
+  
 ***input Rotating key in setup Node***
 
 ### Cheat sheet
@@ -99,7 +105,3 @@ docker pull analoglabs/timechain
 ```
 
 
-Hardware: 8 vCPUs (c6i.xlarge), 16 GB (c6i.xlarge), and at least 300 GB storage (NVMe SSD).
-Network: Port 9944.
-Network speed: At least 500 MBps.
-OS: The Timechain Node has been developed and tested on x86_64 architecture. This guide will assume you’re using Ubuntu versions 18.04, 20.04, or 22.04.
