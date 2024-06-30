@@ -95,15 +95,29 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 * [Discord](https://discord.com/invite/analog/) adreslerine gidip Analog adresimize, Faucet'ten token alalım. (Analog adresimiz nerede hocam? Subwallet içerisinde, sağ üst kısımda "Customize asset display" bölümünden Analog Testnet ağını ekleyip, adresinizi alabilirsiniz)
 
 
+### Token geldi mi? 😁 Eğer geldiyse birkaç işlemimiz daha olacak. 
+
+* İlk olarak PolkadotDashboard sitesine gidelim.
+* 
 
 
 
-### Cheat sheet
-```
+
+> Help me
+
+* Logları kontrol etme
+  
+```console
 docker logs -f analog
+```
+* Analog başlatma
+```console
 docker start analog
+```
+* Analog durdurma
+```console
 docker stop analog
-docker rm analog
+```
 docker pull analoglabs/timechain
 ```
 
