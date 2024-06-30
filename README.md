@@ -58,7 +58,7 @@ mkdir -p $(pwd)/.analog
 ```
 
 * Analog docker container'ı çalıştıralım. 🐅
-* Önemli: Moniker'i değiştirmeyi unutmayın. (Moniker, senin Telemetry üzerinde görünecek ismin olacak. Daha sonra form doldururken bu bilgilere ekleyeceğiz.) (Parantezleri uçur 😁) 
+* Önemli: Moniker'i değiştirmeyi unutmayın. (Moniker, senin Telemetry üzerinde görünecek ismin olacak. Daha sonra form doldururken bu bilgileri ekleyeceğiz.) (Parantezleri uçur 😁) 
 
 ```console
 docker run -d -p 9944:9944 -p 30303:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name (senin-moniker-ismin)
@@ -73,7 +73,7 @@ chmod +x websocat_amd64-linux
 sudo mv websocat_amd64-linux /usr/local/bin/websocat
 ```
 
-* Websocat kurulumunu Verify edelim
+* Websocat kurulumunu check edelim
 
 ```console
 websocat --version
@@ -81,7 +81,7 @@ websocat --version
 
 * |websocat version 1.7.0 olmalı|
 
-* Author_rotateKeys method ile "SESSION KEY'imizi" alalım. (Bunu saklayalım mı hocam dediğinizi duyar gibiyim 😁 ✅)
+# Author_rotateKeys method ile "SESSION KEY'imizi" alalım. (Bunu saklayalım mı hocam dediğinizi duyar gibiyim 😁 ✅)
 
 
 ```console
