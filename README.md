@@ -108,7 +108,7 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 
 * İlk olarak PolkadotDashboard sitesine giriş yapalım
 * Sırasıyla: Network, Staking, Accounts bölümüne gidelim
-* Sağ kısımda "Validator"e tıklayalım ve Stash Account bölümüne Faucet aldığımız cüzdanı ekleyelim. Fee bırakacak şekilde elimizde bulunan token'ları stake edelim. Next dedikten sonra (Keys From Rotatekeys) kısmına daha önceden almış olduğumuz Session Key'imizi ekleyelim. (Sadece adres kısmını ekliyoruz, tırnaklar vs. olmadan)
+* Sağ kısımda "Validator"e tıklayalım ve Stash Account bölümüne Faucet aldığımız cüzdanı ekleyelim. Fee bırakacak şekilde elimizde bulunan token'ları stake edeceğiz. Next dedikten sonra (Keys From Rotatekeys) kısmına daha önceden almış olduğumuz Session Key'imizi ekleyelim. (Sadece adres kısmını ekliyoruz, tırnaklar vs. olmadan)
 
 
 * Böyle bir sonuca sahip olmanız gerekiyor
