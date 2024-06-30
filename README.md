@@ -76,14 +76,15 @@ websocat --version
 * Author_rotateKeys method ile "SESSION KEY'imizi" alalım. (Bunu saklayalım mı hocam dediğinizi duyar gibiyim 😁 ✅)
 
 
-```
+```console
 echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | websocat -n1 -B 99999999 ws://127.0.0.1:9944
 ```
 
-
+```console
 * Genellikle Node Sync olduktan sonra Moniker'iniz Telemetry üzerinde görünür. (Ben 4 gün bekledim ama ismim hiçbir türlü görünmedi. Neden? Sayfa içinde arama ile değil sıralama yapıp, isminizin baş harfinin olduğu bölgeye gelip, kontrol edin, Moniker'iniz ile bakışın 🐅) 
 
 * [Telemetry](https://telemetry.analog.one/)
+```
 
 * Son işlemler için Polkadot.js'ye bağlanmamız gerekiyor
 * Öncelikle Subwallet ile bir cüzdan açalım 🐅
