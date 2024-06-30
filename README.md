@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1>
-<p align="center"> Analog </p>
+<p align="center"> ANALOG </p>
 </h1>
 
 <p align="center">
