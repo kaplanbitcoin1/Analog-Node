@@ -8,7 +8,7 @@
 > Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
 > Network: Port 9944. 
 > Network speed: 500 MBps.
-> Ubuntu version 20.04 ya da 22.04. (Sorunsuz olsun diyorsan 22.04)
+> Ubuntu version 20.04 ya da 22.04. Sorunsuz olsun diyorsan 22.04
 > (Benim Contabo Vps3'te çalışıyor. Yanında 5 tane daha node kurulu. Sync olduktan sonra sıkıntısız ilerliyor Analog.)
 
 ### Güncellemeleri yapalım
