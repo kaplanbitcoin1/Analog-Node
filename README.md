@@ -16,9 +16,6 @@
 > Network speed: 500 MBps.
 > Ubuntu version 20.04 ya da 22.04. (Sorunsuz olsun diyorsan 22.04)
 
-### - Complete the form  <a href="https://l5d87lam6fy.typeform.com/to/kwlADm6U">here</a>
-### - Create a Polkadot wallet for stash account using the Subwallet extension
-### - Request Faucet in Discord
 
 ### Güncellemeleri yapalım
 ```console
@@ -80,3 +77,8 @@ docker rm analog
 docker pull analoglabs/timechain
 ```
 
+
+Hardware: 8 vCPUs (c6i.xlarge), 16 GB (c6i.xlarge), and at least 300 GB storage (NVMe SSD).
+Network: Port 9944.
+Network speed: At least 500 MBps.
+OS: The Timechain Node has been developed and tested on x86_64 architecture. This guide will assume you’re using Ubuntu versions 18.04, 20.04, or 22.04.
