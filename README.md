@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.analog.one/">Site</a> |
-  <a href="https://x.com/OneAnalog">X</a> |
-  <a href="https://docs.analog.one/documentation/node-operators/introduction">Docs</a> 
+  <a href="https://x.com/OneAnalog">Twitter</a> |
+  <a href="https://docs.analog.one/documentation/node-operators/introduction">Dokumanlar</a> 
 </p>
 
 
