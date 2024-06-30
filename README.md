@@ -4,7 +4,13 @@
 <p align="center"> Analog </p>
 </h1>
 
-### Minimum Sistem Gereksinimleri
+### 
+<p align="center">
+</p>
+<h1>
+<p align="center"> Minimum Sistem Gereksinimleri </p>
+</h1>
+
 ```console
 Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
 Network: Port 9944. 
