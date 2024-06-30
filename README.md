@@ -117,10 +117,10 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 * Son olarak başvuru[Form'unu](https://l5d87lam6fy.typeform.com/to/kwlADm6U/) dolduralım. Seçilmemiz halinde bize mail gönderilecek. -Form doldururken referans soruluyor. İsteyen github profilimi ekleyebilir ya da o kısmı es geçebilir. 
 
 
-# Sanırım başardık 🐅
+### Sanırım başardık 🐅
 
 
-# Bu arada projenin testnet görevleri de var. Contract deploy etme Smart Contract oluşturma vs. gibi. Ben belli bir süre bu görevleri yaptım ve diğer projelere nazaran Analog, kullanıcılara bir şeyleri öğretmeyi hedefliyor. İsteyen [Sitede'ki](https://testnet.analog.one/#/quests/) görevlere göz atabilir. Aynı cüzdan adresinizle görevleri yapabilirsiniz. Seçilmemiz halinde sitedeki validator kısmına eklenmiş olacağız sanırım. Bu da bizlere ekstra puanlar getirmiş olacak.  
+### Bu arada projenin testnet görevleri de var. Contract deploy etme Smart Contract oluşturma vs. gibi. Ben belli bir süre bu görevleri yaptım ve diğer projelere nazaran Analog, kullanıcılara bir şeyleri öğretmeyi hedefliyor. İsteyen [Sitede'ki](https://testnet.analog.one/#/quests/) görevlere göz atabilir. Aynı cüzdan adresinizle görevleri yapabilirsiniz. Seçilmemiz halinde sitedeki validator kısmına eklenmiş olacağız sanırım. Bu da bizlere ekstra puanlar getirmiş olacak.  
 
 
 > Help me button 😁
