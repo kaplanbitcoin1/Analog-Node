@@ -55,19 +55,25 @@ mkdir -p $(pwd)/.analog
 ```console
 docker run -d -p 9944:9944 -p 30303:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name (senin-moniker-ismin)
 ```
-***Replace <your_moniker> with a unique name for your node. It must match the name you entered on your registration form***
-### Install websocat
-```
+
+
+* Websocat'i yükleyelim
+
+```console
 curl -LO https://github.com/vi/websocat/releases/download/v1.7.0/websocat_amd64-linux
 chmod +x websocat_amd64-linux
 sudo mv websocat_amd64-linux /usr/local/bin/websocat
 ```
-### Verify websocat installation
-```
+
+* Websocat kurulumunu Verify edelim
+
+```console
 websocat --version
 ```
-***make sure version websocat 1.7.0***
-### Test websocat with author_rotateKeys method
+
+***websocat version 1.7.0 olmalı***
+
+* Test websocat with author_rotateKeys method
 ```
 echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | websocat -n1 -B 99999999 ws://127.0.0.1:9944
 ```
