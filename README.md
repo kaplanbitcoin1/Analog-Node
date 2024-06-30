@@ -1,14 +1,11 @@
 <p align="center">
 </p>
 <h1>
-<p align="center"> ANALOG NODE SETUP </p>
+<p align="center"> Analog </p>
 </h1>
 
-<p align="center">
-</p>
-<h1>
-<p align="center"> Minimum Sistem Gereksinimleri </p>
-</h1>
+
+* Minimum Sistem Gereksinimleri
 
 ```console
 Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
