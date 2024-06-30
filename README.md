@@ -71,7 +71,7 @@ sudo mv websocat_amd64-linux /usr/local/bin/websocat
 websocat --version
 ```
 
-### /websocat version 1.7.0 olmalı/
+### |websocat version 1.7.0 olmalı|
 
 * Test websocat with author_rotateKeys method
 ```
