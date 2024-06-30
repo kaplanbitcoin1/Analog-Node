@@ -5,7 +5,7 @@
 </h1>
 
 
-### Minimum Sistem Gereksinimleri
+# Minimum Sistem Gereksinimleri
 
 ```console
 Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
