@@ -95,11 +95,15 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 * [Discord](https://discord.com/invite/analog/) adreslerine gidip Analog adresimize, Faucet'ten token alalım. (Analog adresimiz nerede hocam? Subwallet içerisinde, sağ üst kısımda "Customize asset display" bölümünden Analog Testnet ağını ekleyip, adresinizi alabilirsiniz)
 
 
-### Token geldi mi? 😁 Eğer geldiyse birkaç işlemimiz daha olacak. 
+### Token geldi mi? Eğer geldiyse birkaç işlemimiz daha olacak
 
-* İlk olarak PolkadotDashboard sitesine gidelim.
-* 
+* İlk olarak PolkadotDashboard sitesine giriş yapalım
+* Sırasıyla: Network, Staking, Accounts bölümüne gidelim
+* Sağ kısımda "Validator"e tıklayalım ve Stash Account bölümüne Faucet aldığımız cüzdanı ekleyelim. Fee bırakacak şekilde elimizde bulunan token'leri stake edelim. Next dedikten sonra (Keys From Rotatekeys) kısmına daha önceden almış olduğumuz Session Key'imizi ekleyelim. (Sadece adres kısmını ekliyoruz, tırnaklar vs. olmadan)
 
+
+* Böyle bir sonuca sahip olmanız gerekiyor
+* <img width="1071" alt="Ekran Resmi 2024-06-30 10 03 47" src="https://github.com/kaplanbitcoin1/Analog-Node/assets/98455323/72228575-41e5-4ffa-9e73-b9108c0e5cd1">
 
 
 
@@ -117,7 +121,5 @@ docker start analog
 * Analog durdurma
 ```console
 docker stop analog
-```
-docker pull analoglabs/timechain
 ```
 
