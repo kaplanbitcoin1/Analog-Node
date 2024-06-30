@@ -85,6 +85,7 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 
 * <a href="https://telemetry.analog.one/#/0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943">Telemetry</a>
 
+[Telemetry](https://telemetry.analog.one/#/0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943/)
 
 * Son işlemler için Polkadot.js'ye bağlanmamız gerekiyor
 * Öncelikle Subwallet ile bir cüzdan açalım 🐅
