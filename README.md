@@ -81,7 +81,9 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 ```
 
 
-* Genellikle Node Sync olduktan sonra Moniker'iniz Telemetry üzerinde görünür. (4 gün bekledim ama benim gelmedi. Sayfa içinde arama ile değil sıralama yapıp, isminizin baş harfinin olduğu bölgeye gelip, kontrol edin, Moniker'iniz ile bakışın 😁) 🐅  <a href="https://telemetry.analog.one/#/0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943">Telemetry</a>
+* Genellikle Node Sync olduktan sonra Moniker'iniz Telemetry üzerinde görünür. (4 gün bekledim ama benim gelmedi. Sayfa içinde arama ile değil sıralama yapıp, isminizin baş harfinin olduğu bölgeye gelip, kontrol edin, Moniker'iniz ile bakışın 😁) 🐅
+
+* <a href="https://telemetry.analog.one/#/0x0614f7b74a2e47f7c8d8e2a5335be84bdde9402a43f5decdec03200a87c8b943">Telemetry</a>
 
 
 * Son işlemler için Polkadot.js'ye bağlanmamız gerekiyor
