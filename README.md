@@ -31,11 +31,11 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plu
 docker pull analoglabs/timechain
 ```
 ### Analog dizinini oluşturalım
-```shell
+```console
 mkdir -p $(pwd)/.analog
 ```
-### Run the Analog Timechain Docker container
-```
+### Analog docker container'ı çalıştıralım.
+```console
 docker run -d -p 9944:9944 -p 30303:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name <youe_moniker>
 ```
 ***Replace <your_moniker> with a unique name for your node. It must match the name you entered on your registration form***
