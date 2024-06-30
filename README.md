@@ -17,9 +17,9 @@
 
 ```console
 Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk
-Network: Port 9944
+Port: 9944
 Network: 500 MBps
-Ubuntu version 20.04 ya da 22.04. Sorunsuz olsun diyorsan 22.04
+Ubuntu: Version 22.04
 
 "Benim Contabo Vps3'te çalışıyor. Yanında 5 tane daha node kurulu. Sync olduktan sonra sıkıntısız ilerliyor Analog."
 ```
@@ -73,7 +73,7 @@ chmod +x websocat_amd64-linux
 sudo mv websocat_amd64-linux /usr/local/bin/websocat
 ```
 
-* Websocat kurulumunu check edelim
+* Websocat'i check edelim
 
 ```console
 websocat --version
@@ -114,13 +114,13 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 <img width="1071" alt="Ekran Resmi 2024-06-30 10 03 47" src="https://github.com/kaplanbitcoin1/Analog-Node/assets/98455323/72228575-41e5-4ffa-9e73-b9108c0e5cd1">
 
 
-* Son olarak başvuru[Form'unu](https://l5d87lam6fy.typeform.com/to/kwlADm6U/) dolduralım. Seçilmemiz halinde bize mail gönderilecek. Form doldururken referans istediği bir bölüm var. İsteyen github profilimi ekleyebilir ya da o kısmı es geçebilir. 
+* Son olarak başvuru[Form'unu](https://l5d87lam6fy.typeform.com/to/kwlADm6U/) dolduralım. Seçilmemiz halinde bize mail gönderilecek. -Form doldururken referans soruluyor. İsteyen github profilimi ekleyebilir ya da o kısmı es geçebilir. 
 
 
 # Sanırım başardık 🐅
 
 
-# Bu arada projenin testnet görevleri de var. Contract deploy etme Smart Contract oluşturma vs. gibi. Ben belli bir süre bu görevleri yaptım ve diğer projelere nazaran keyif aldığım ve bir şeyleri öğrendiğim bir süreç oldu. isteyen [Sitede'ki](https://testnet.analog.one/#/quests/) görevlere göz atabiliriz. Aynı cüzdan adresnizle görevleri yapabilirsiniz. Seçilmemiz halinde sitedeki validator kısmına eklenmiş olacağız sanırım. Bu da bize ekstra puan getirmiş olacak.  
+# Bu arada projenin testnet görevleri de var. Contract deploy etme Smart Contract oluşturma vs. gibi. Ben belli bir süre bu görevleri yaptım ve diğer projelere nazaran Analog, kullanıcılara bir şeyleri öğretmeyi hedefliyor. İsteyen [Sitede'ki](https://testnet.analog.one/#/quests/) görevlere göz atabilir. Aynı cüzdan adresinizle görevleri yapabilirsiniz. Seçilmemiz halinde sitedeki validator kısmına eklenmiş olacağız sanırım. Bu da bizlere ekstra puanlar getirmiş olacak.  
 
 
 > Help me button 😁
@@ -139,3 +139,4 @@ docker start analog
 docker stop analog
 ```
 
+[Lorento](https://github.com/Lorento34/) katkılarından dolayı teşekkürler ✅
