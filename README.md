@@ -17,7 +17,7 @@ Ubuntu version 20.04 ya da 22.04. Sorunsuz olsun diyorsan 22.04
 ```
 
 
-*Güncellemeleri yapalım
+* Güncellemeleri yapalım
 
 ```console
 sudo apt update
