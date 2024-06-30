@@ -90,7 +90,8 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 * Öncelikle Subwallet ile bir cüzdan açalım 🐅
 * Daha sonra aşağıdaki link üzerinden siteye cüzdanımızı bağlayalım
 * <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts">Dashboard</a>
-* <a href="https://discord.com/invite/analog">Discord</a> adreslerine gidip Analog adresimize Faucet'ten token alalım
+* <a href="https://discord.com/invite/analog">Discord</a> adreslerine gidip Analog adresimize, Faucet'ten token alalım. (Analog adresimiz? Subwallet içerisinde, sağ üst kısımda "Customize asset display" bölümünden Analog Testnet ağını ekleyip, adresinizi alabilirsiniz)
+
 
   
 ***input Rotating key in setup Node***
