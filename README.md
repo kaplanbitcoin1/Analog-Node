@@ -4,12 +4,6 @@
 <p align="center"> Analog </p>
 </h1>
 
-<p align="center">
-  <a href="https://www.analog.one/"<Link</a> 
-  <a href="https://discord.com/invite/analog">Discord</a>
-  <a href="https://x.com/OneAnalog">Twitter</a>
-  <a href="https://docs.analog.one/documentation/node-operators/introduction">Docs</a> 
-</p>
 
 > Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
 > Network: Port 9944.
