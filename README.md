@@ -84,14 +84,14 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 * Genellikle Node Sync olduktan sonra Moniker'iniz Telemetry üzerinde görünür. (Ben 4 gün bekledim ama ismim hiçbir türlü görünmedi. Neden? Sayfa içinde arama ile değil sıralama yapıp, isminizin baş harfinin olduğu bölgeye gelip, kontrol edin, Moniker'iniz ile bakışın 🐅) 
 
 * [Telemetry](https://telemetry.analog.one/)
-<a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts">PolkadotDashboard</a>
 
-[PolkadotDashboard](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts/)
+
+
 
 * Son işlemler için Polkadot.js'ye bağlanmamız gerekiyor
 * Öncelikle Subwallet ile bir cüzdan açalım 🐅
 * Daha sonra aşağıdaki link üzerinden siteye cüzdanımızı bağlayalım
-* <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts">PolkadotDashboard</a>
+* [PolkadotDashboard](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one###/accounts/)
 * <a href="https://discord.com/invite/analog">Discord</a> adreslerine gidip Analog adresimize, Faucet'ten token alalım. (Analog adresimiz? Subwallet içerisinde, sağ üst kısımda "Customize asset display" bölümünden Analog Testnet ağını ekleyip, adresinizi alabilirsiniz)
 
 
