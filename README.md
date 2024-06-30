@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1>
-<p align="center"> ANALOG </p>
+<p align="center"> ANALOG NODE SETUP </p>
 </h1>
 
 <p align="center">
