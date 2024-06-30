@@ -111,6 +111,10 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 
 # Sanırım başardık 🐅
 
+
+# Bu arada projenin testnet görevleri de var. Contract deploy etme Smart Contract oluşturma vs. gibi. Ben belli bir süre bu görevleri yaptım ve diğer projelere nazaran keyif aldığım ve bir şeyleri öğrendiğim bir süreç oldu. isteyen [Sitede'ki](https://testnet.analog.one/#/quests/) görevlere göz atabiliriz. Aynı cüzdan adresnizle görevleri yapabilirsiniz. Seçilmemiz halinde sitedeki validator kısmına eklenmiş olacağız sanırım. Bu da bize ekstra puan getirmiş olacak.  
+
+
 > Help me button 😁
 
 * Logları kontrol etme
