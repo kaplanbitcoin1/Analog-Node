@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.analog.one/">Website</a> 
   <a href="https://x.com/OneAnalog">Twitter</a> 
-  <a href="https://docs.analog.one/documentation/node-operators/introduction">Dokumanlar</a> 
+  <a href="https://docs.analog.one/documentation/node-operators/running-a-timechain-node/">Dokumanlar</a> 
   <a href="https://cryptorank.io/ico/analog#funding-rounds/">Yatırımcılar</a>
   <a href="https://coinlist.co/analog-testnet?utm_source=dashboard&utm_medium=web&utm_campaign=analog+testnet/">Coinlist</a>
 </p>
