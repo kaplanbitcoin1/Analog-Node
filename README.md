@@ -17,26 +17,34 @@ Ubuntu version 20.04 ya da 22.04. Sorunsuz olsun diyorsan 22.04
 ```
 
 
-### Güncellemeleri yapalım
+*Güncellemeleri yapalım
+
 ```console
 sudo apt update
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
 ```
-### Docker kuralım
+
+* Docker kuralım
+
 ```console
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
 ```
-### Docker bileşenlerini yükleyelim
+
+* Docker bileşenlerini yükleyelim
+
 ```console
 sudo apt-get update
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 ```
-### Analog Timechain Docker görüntüsünü çekelim
+
+* Analog Timechain Docker görüntüsünü çekelim
+
 ```console
 docker pull analoglabs/timechain
 ```
-### Analog dizinini oluşturalım
+
+* Analog dizinini oluşturalım
 ```console
 mkdir -p $(pwd)/.analog
 ```
