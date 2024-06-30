@@ -106,8 +106,15 @@ echo '{"id":1,"jsonrpc":"2.0","method":"author_rotateKeys","params":[]}' | webso
 <img width="1071" alt="Ekran Resmi 2024-06-30 10 03 47" src="https://github.com/kaplanbitcoin1/Analog-Node/assets/98455323/72228575-41e5-4ffa-9e73-b9108c0e5cd1">
 
 
+* 🐅 Sanırım başardık 🐅
 
-> Help me
+
+
+* Son olarak başvuru[Form'unu](https://l5d87lam6fy.typeform.com/to/kwlADm6U/) dolduralım. Seçilmemiz halinde bize mail gönderilecek. Referans kısmına
+
+ 
+
+> Help me button 😁
 
 * Logları kontrol etme
   
