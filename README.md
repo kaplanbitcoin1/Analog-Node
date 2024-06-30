@@ -4,7 +4,7 @@
 <p align="center"> Analog </p>
 </h1>
 
-> EN DÜŞÜK SİSTEM GEREKSİNİNLERİ 
+# EN DÜŞÜK SİSTEM GEREKSİNİMLERİ 
 > Hardware: 8 vCPUs, 16 GB Ram, 300 GB Disk.
 > Network: Port 9944. 
 > Network speed: 500 MBps.
