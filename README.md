@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.analog.one/">Site</a> </p>
- <p <a href="https://x.com/OneAnalog">Twitter</a> </p>
+  <a href="https://x.com/OneAnalog">Twitter</a> </p>
   <a href="https://docs.analog.one/documentation/node-operators/introduction">Dokumanlar</a> 
   <a href="https://cryptorank.io/ico/analog#funding-rounds/">Yatırımcılar Vs</a> 
 </p>
