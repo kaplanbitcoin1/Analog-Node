@@ -50,7 +50,7 @@ mkdir -p $(pwd)/.analog
 ```
 
 * Analog docker container'ı çalıştıralım.
-* Önemli: Moniker'i değiştirmeyi unutmayın. (Senin Telemetry üzerinde görünecek ismin. Daha sonra form doldururken bilgilere ekleyeceğiz bunu.) (Parantezleri uçur 😁)
+* Önemli: Moniker'i değiştirmeyi unutmayın. (Moniker, senin Telemetry üzerinde görünecek ismin olacak. Daha sonra form doldururken bilgilere ekleyeceğiz bunu.) (Parantezleri uçur 😁)
 
 ```console
 docker run -d -p 9944:9944 -p 30303:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name (senin-moniker-ismin)
