@@ -4,6 +4,12 @@
 <p align="center"> Analog </p>
 </h1>
 
+<p align="center">
+  <a href="https://www.analog.one/">Site</a> |
+  <a href="https://x.com/OneAnalog">X</a> |
+  <a href="https://docs.analog.one/documentation/node-operators/introduction">Docs</a> 
+</p>
+
 
 * Minimum Sistem Gereksinimleri
 
