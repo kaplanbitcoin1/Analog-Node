@@ -55,4 +55,9 @@ chains/anlogcc1/paritydb/full/table_01_39
 docker run -d -p 9944:9944 -p 30303:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name (senin-moniker-ismin)
 ```
 
+* Logları kontrol edelim. Sync olmasını bekleyeceğiz. Tahmini olarak birkaç günümüzü alacaktır bu.
+```console
+docker logs -f analog
+```
+
 * Bugünlük bu kadardı. Keyifli günler 🐈
