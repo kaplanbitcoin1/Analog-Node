@@ -27,7 +27,6 @@ cd .analog
 * Full klasörünün fişini çekiyoruz 🧨
 
 ```console
-sudo su
 rm -rf /root/.analog/chains/anlogcc1/paritydb/full
 ```
 
