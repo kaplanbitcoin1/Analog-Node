@@ -40,13 +40,7 @@ cd
 * İndirdiğimiz dosyayı fişini çektiğimiz dosyaya çıkartalım
 
 ```console
-tar -xvzf testnet-backup.tar.gz -C .
-chains/
-chains/anlogcc1/
-chains/anlogcc1/paritydb/
-chains/anlogcc1/paritydb/full/
-chains/anlogcc1/paritydb/full/table_01_b9
-chains/anlogcc1/paritydb/full/table_01_39
+tar -xvzf /root/testnet-backup.tar.gz -C /root/.analog/chains/anlogcc1/paritydb/full/
 ```
 
 
