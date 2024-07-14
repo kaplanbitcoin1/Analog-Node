@@ -23,7 +23,7 @@ docker stop (dockerID) && docker rm (dockerID)
 ```console
 cd .analog
 ```
-* Chains kolasörünün fişini çekiyoruz
+* Chains klasörünün fişini çekiyoruz
 
 ```console
 rm -rf ./chains/analogcc1/paritydb/full
