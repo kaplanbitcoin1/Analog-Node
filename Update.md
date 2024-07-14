@@ -17,6 +17,7 @@ docker ps
 * Analog DockerID kısımlarını kendinize göre değiştirin. (Parantezler uçuyor)
 
 ```console
+sudo su
 docker stop (dockerID) && docker rm (dockerID)
 ```
 
