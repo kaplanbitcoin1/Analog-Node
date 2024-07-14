@@ -1,4 +1,4 @@
-* Analog'da sorunlar yaşamıştık. Bugün bir güncelleme paylaştılan. Gelin beraber problemi çözelim.
+* Analog'da sorunlar yaşamıştık. Bugün bir güncelleme paylaştılar. Gelin beraber problemi çözelim.
 
 
 * İlk olark bizi kurtaracak dosyayı indirelim
