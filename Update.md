@@ -26,7 +26,7 @@ cd .analog
 * Chains klasörünün fişini çekiyoruz
 
 ```console
-rm -rf ./chains/analogcc1/paritydb/full
+rm -rf /root/.analog/chains/anlogcc1/paritydb/full
 ```
 
 * Tekrar root bölümüne dönelim
