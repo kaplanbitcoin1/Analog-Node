@@ -46,3 +46,10 @@ chains/anlogcc1/paritydb/full/
 chains/anlogcc1/paritydb/full/table_01_b9
 chains/anlogcc1/paritydb/full/table_01_39
 ```
+
+
+* Docker'ı başlatalım. - Moniker isminiz aynı olmalı.
+
+```console
+docker run -d -p 9944:9944 -p 30303:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name (senin-moniker-ismin)
+```
