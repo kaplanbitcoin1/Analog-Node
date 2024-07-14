@@ -17,7 +17,6 @@ docker ps
 * Analog DockerID kısımlarını kendinize göre değiştirin. (Parantezler uçuyor)
 
 ```console
-sudo su
 docker stop (dockerID) && docker rm (dockerID)
 ```
 
@@ -28,6 +27,7 @@ cd .analog
 * Full klasörünün fişini çekiyoruz 🧨
 
 ```console
+sudo su
 rm -rf /root/.analog/chains/anlogcc1/paritydb/full
 ```
 
