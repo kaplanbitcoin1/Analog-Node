@@ -12,7 +12,8 @@ curl -O https://analog-public.s3.amazonaws.com/backup/testnet-backup.tar.gz
 docker ps
 ```
 
-* Analog fişini çekelim.
+* Analog fişini çekelim 🧨
+
 * Analog DockerID kısımlarını kendinize göre değiştirin. (Parantezler uçuyor)
 
 ```console
@@ -23,7 +24,7 @@ docker stop (dockerID) && docker rm (dockerID)
 ```console
 cd .analog
 ```
-* Chains klasörünün fişini çekiyoruz
+* Full klasörünün fişini çekiyoruz 🧨
 
 ```console
 rm -rf /root/.analog/chains/anlogcc1/paritydb/full
