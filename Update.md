@@ -12,7 +12,7 @@ docker ps
 docker stop (dockerID) && docker rm (dockerID)
 ```
 
-* Full dosyasının fişini çekelim 🧨
+* Full dosyasını uçuralım 🧨
 
 ```console
 rm -rf /root/.analog/chains/anlogcc1/paritydb/full
